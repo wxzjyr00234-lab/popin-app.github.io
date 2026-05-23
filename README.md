@@ -1,1 +1,1 @@
-# popin-app.github.io
+# popin.github.io
